@@ -1,5 +1,0 @@
-name: 'Anytown'
-type: module
-description: 'Custom code for the Anytown Farmers Market site.'
-package: Custom
-core_version_requirement: ^10
