@@ -1,0 +1,7 @@
+name: 'Anytown'
+type: module
+description: 'A simple Hello World block for Anytown.'
+core_version_requirement: ^10
+package: Custom
+version: 1.0.0
+dependencies: []

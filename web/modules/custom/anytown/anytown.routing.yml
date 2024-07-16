@@ -1,0 +1,12 @@
+# Route definitions for the hello_world module.
+
+# Each route needs a unique identifier. We recommend prefixing the route name
+# with the name of your module. Indented under the route name is the definition
+# of the route. A routing.yml file can contain any number of routes.
+anytown.tempo:
+  path: '/tempo'
+  defaults:
+    _controller: '\Drupal\anytown\Controller\TempoController::content'
+    _title: 'Tempo'
+  requirements:
+    _permission: 'access content'
