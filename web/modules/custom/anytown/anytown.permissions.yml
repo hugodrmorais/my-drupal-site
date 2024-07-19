@@ -1,0 +1,3 @@
+manage weather forecast:
+   title: 'Manage weather forecasts'
+   description: 'Allows users to create, edit, and delete weather forecasts.'
